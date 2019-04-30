@@ -2,6 +2,11 @@
 
 In the interview program directory is the FizzBuzz python project I put together.
 
+Problem statement:
+Print out all of the numbers between 1 and 100, but...
+1) if a number was a multiple of 3 or contained 3, it outputs "Fizz".
+2) if a number was a mulitple of 5 or contained 5, it outputs "Buzz".
+
 Pytests are located in fizzBuzzPlus_test.py.
 
 To see the output, run the run.sh script.
