@@ -14,4 +14,4 @@ def test_thirteen_contains_three():
 
 def test_fourteen_does_not_contain_three():
     test = fizzBuzzPlus.FizzBuzzPlus()
-    assert test.containsThree(14)
+    assert test.containsThree(14) == False
